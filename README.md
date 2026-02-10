@@ -1,1 +1,2 @@
-# fangtian-zhong9.github.io
+# Fangtian Zhong
+[Personal academic website](https://fangtian-zhong.github.io)
